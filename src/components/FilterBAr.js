@@ -26,4 +26,4 @@ const FilterBar = ({ searchTerm, setSearchTerm, filterStatus, setFilterStatus })
   );
 };
 
-export default FilterBar;
+export default FilterBar; 
